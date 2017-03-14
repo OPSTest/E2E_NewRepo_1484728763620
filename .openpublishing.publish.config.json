@@ -7,7 +7,7 @@
       "build_source_folder": "E2E_NewRepo_1484728763620",
       "build_output_subfolder": "E2E_NewRepo_1484728763620",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -16,7 +16,7 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "is_dynamic_rendering": false
+      "version": 0
     }
   ],
   "notification_subscribers": [],
